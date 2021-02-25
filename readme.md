@@ -1,13 +1,13 @@
-Playing with CSS Variables and JS
+<h1>Playing with CSS Variables and JS</h1>
 
-This is a Challenge 03 from 30 day Vainilla JS Coding Challenge
+<p>This is a Challenge 03 from 30 day Vainilla JS Coding Challenge</p>
 
-In this challenge adding a event series with interact from image in the page
+<p>In this challenge adding a event series with interact from image in the page</p>
 
-Demo
-Here you will find a demo from challenge
-https://dimasmendoza.github.io/Challenge03JS/
+<h3>Demo</h3>
+<p>Here you will find a demo from challenge</p>
+<a>https://dimasmendoza.github.io/Playing-with-CSS-Variables-and-JS/</a>
 
-Contacto
-LinkedIn https://www.linkedin.com/in/12dimasmendoza97/
-Twitter @mendoza_dimas
+<h3>Contacto/<h3>
+<h4>LinkedIn</h4> <a>https://www.linkedin.com/in/12dimasmendoza97/</a>
+<h4>Twitter</h4> @mendoza_dimas

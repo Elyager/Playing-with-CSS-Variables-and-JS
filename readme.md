@@ -1,3 +1,5 @@
+Playing with CSS Variables and JS
+
 This is a Challenge 03 from 30 day Vainilla JS Coding Challenge
 
 In this challenge adding a event series with interact from image in the page
